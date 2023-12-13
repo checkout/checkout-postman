@@ -1,1 +1,1 @@
-# Checkout Postman collection
+# This repository is deprecated.
